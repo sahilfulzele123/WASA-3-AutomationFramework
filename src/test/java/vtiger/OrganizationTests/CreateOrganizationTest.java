@@ -29,7 +29,7 @@ import vtiger.ObjectRepository.OrganizationsPage;
 
 public class CreateOrganizationTest extends BaseClass {
     
-	    //@Test(groups = {"SmokeSuite","RegressionSuite"})
+	    @Test(groups = {"SmokeSuite","RegressionSuite"})
 	    public void createOrganizationTest() throws IOException {
 		
 		
