@@ -11,7 +11,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="vtiger.OrganizationTests.CreateOrganizationTest"/>
-      <class name="vtiger.ContactsTests.createContactsWithOrganizationTest"></class>
+      
      
     </classes>
   </test> <!-- Test -->

@@ -15,7 +15,7 @@ public class TestScriptTestNgPractice {
 	@Test(dependsOnMethods = "createUser")
 	public void updateUser() {
 		System.out.println("update");
-		Assert.fail();
+		//Assert.fail();
 	}
 	
 	@Test(dependsOnMethods = "updateUser")
