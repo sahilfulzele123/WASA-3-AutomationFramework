@@ -18,6 +18,9 @@ public class ReadDataFromCmdLine {
 		
 		String PASSWORD = System.getProperty("password");
 		System.out.println(PASSWORD);
+		
+		System.out.println("----------");
+		
 	}
 
 }
